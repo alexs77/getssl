@@ -44,6 +44,7 @@ Options:
   -a, --all       Check all certificates
   -q, --quiet     Quiet mode (only outputs on error, or succcess of new cert)
   -u, --upgrade   Upgrade getssl if more recent version available
+  -U, --nocheck   Do not check if a more recent version is available
   -w working_dir  Working directory
 ```
 
